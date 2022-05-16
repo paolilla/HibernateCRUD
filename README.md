@@ -1,8 +1,6 @@
-# CRUD utilizando Java ORM Hibernate y MySQL
-### Desarrollo de Software Empresarial 05L
-_Taller práctico 02_
+# CRUD using Java ORM Hibernate and MySQL
 
-## Requerimientos
+## Requirements
 * MySQL 5.1.6
 * Java 8 (JDK 1.8)
 * Hibernate 4.3.5
